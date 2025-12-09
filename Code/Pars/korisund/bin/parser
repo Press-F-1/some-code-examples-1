@@ -1,0 +1,7 @@
+#!/home/korisund/Рабочий стол/School_21/DS/Bootcamp/Day03/DS_Bootcamp.Day03.ID_886513-1/src/ex03/korisund/bin/python3
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from htmlparser import standalone
+
+standalone.main()
